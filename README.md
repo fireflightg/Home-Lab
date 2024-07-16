@@ -35,7 +35,7 @@ The Kali Linux VM is configured for network security testing. Key steps in the s
 4. **Install Mullvad VPN**: To enhance privacy and security.
 5. **Other Privacy Tools**: Additional tools to ensure privacy and security.
 
-Detailed setup instructions can be found [here](kali-linux/setup.md).
+Detailed setup instructions can be found [here](kali-linux.md).
 
 ### Ubuntu
 The Ubuntu VM is configured for general Linux administration and additional security tools. Key steps in the setup include:
@@ -51,7 +51,7 @@ The Ubuntu VM is configured for general Linux administration and additional secu
 4. **Install Mullvad VPN**: To enhance privacy and security.
 5. **Other Privacy Tools**: Additional tools to ensure privacy and security.
 
-Detailed setup instructions can be found [here](ubuntu/setup.md).
+Detailed setup instructions can be found [here](ubuntu.md).
 
 ## Tools and Utilities
 - **VirtualBox**: For running the virtual machines.
